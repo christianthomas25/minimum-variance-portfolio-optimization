@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local/private data
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Private submission files
+*student_id*
+*StudentID*
+*blackboard*
+*private*
